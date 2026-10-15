@@ -1,19 +1,22 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
-  <h1>Hi there, I'm Sughan P V 👋</h1>
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=220&section=header&text=Sughan%20P%20V&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Google%20Student%20Ambassador&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Animated Typing Banner -->
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://sughan.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=B.Tech+AI+%26+Data+Science+Student;Google+Student+Ambassador;Machine+Learning+%26+Generative+AI+Enthusiast;Building+Intelligent%2C+Data-Driven+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Machine+Learning+%26+Generative+AI+Enthusiast;Author+of+smartml-assistant+on+PyPI;Google+Student+Ambassador;Engineering+Scalable+AI+Solutions" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Interactive Portfolio & Quick Connect Badges -->
+  <!-- Verified Link Badges (Zero Duplicates) -->
   <p align="center">
     <a href="https://sughan.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-sughan.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://pypi.org/project/smartml-assistant/" target="_blank">
+      <img src="https://img.shields.io/badge/📦_PyPI_Package-smartml--assistant-3776AB?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
     </a>
     <a href="https://linkedin.com/in/sughan-pv-535908336" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,27 +35,33 @@
 
 ### 👨‍💻 About Me
 
-I am a **B.Tech Artificial Intelligence & Data Science** student passionate about engineering intelligent, end-to-end data-driven systems and production-ready machine learning solutions.
+I am a **B.Tech Artificial Intelligence & Data Science** student passionate about engineering intelligent data pipelines, computer vision systems, and automated machine learning tools.
 
-- 🔭 **Current Focus:** Advanced Machine Learning, Generative AI architectures, and Computer Vision.
-- 🌐 **Live Portfolio:** Explore my latest builds and interactive demos at [sughan.netlify.app](https://sughan.netlify.app/).
-- 🎓 **Leadership:** Serving as a **Google Student Ambassador**, championing tech awareness, organizing developer events, and collaborating with developer communities.
-- 💡 **Core Philosophy:** Transforming complex datasets and algorithmic concepts (DSA) into high-impact, real-world applications.
-- 💬 **Ask Me About:** Python optimization, Model Training pipelines, Deep Learning, FastAPI backends, and Data Analytics.
+- 🔭 **Current Focus:** Generative AI architectures, Deep Learning, and production MLOps.
+- 📦 **Open-Source:** Author of [`smartml-assistant`](https://pypi.org/project/smartml-assistant/) on PyPI, an automated ML toolkit for model building and evaluation.
+- 🎓 **Community:** Serving as a **Google Student Ambassador**, facilitating tech sessions, hackathons, and developer engagement.
+- 💡 **Core Strengths:** Translating complex mathematical & algorithmic principles (DSA) into high-performance software.
+- 💬 **Ask Me About:** Python optimization, PyPI publishing, FastAPI services, and End-to-End Deep Learning.
 
 ---
 
-### 🚀 Featured Showcase
+### 📦 Featured Open-Source: `smartml-assistant`
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" width="100%">
-        <h3>🌟 Discover My Interactive Portfolio</h3>
-        <p>Explore my featured projects, machine learning experiments, and live web apps in one place.</p>
-        <a href="https://sughan.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Launch_Portfolio_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" alt="Launch Portfolio" />
-        </a>
+      <td align="center" style="padding: 16px;">
+        <h3>🚀 Automated Machine Learning Toolkit</h3>
+        <p>A streamlined Python library built to automate dataset preprocessing, model evaluation, and ML experiment tracking.</p>
+        <p>
+          <a href="https://pypi.org/project/smartml-assistant/" target="_blank">
+            <img src="https://img.shields.io/pypi/v/smartml-assistant?style=for-the-badge&logo=pypi&logoColor=white&color=3776AB" alt="PyPI Version" />
+          </a>
+          <a href="https://pypi.org/project/smartml-assistant/" target="_blank">
+            <img src="https://img.shields.io/pypi/dm/smartml-assistant?style=for-the-badge&logo=pypi&logoColor=white&color=00C7B7" alt="PyPI Downloads" />
+          </a>
+        </p>
+        <pre><code>pip install smartml-assistant</code></pre>
       </td>
     </tr>
   </table>
@@ -60,79 +69,50 @@ I am a **B.Tech Artificial Intelligence & Data Science** student passionate abou
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack & Skills
 
-#### 🧠 Artificial Intelligence, Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-</p>
+<div align="center">
 
-#### 💻 Programming Languages & Backend Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+#### 🧠 Artificial Intelligence, Machine Learning & Computer Vision
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI & ML Stack" />
+</a>
 
-#### ☁️ Cloud, Databases & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</p>
+<br/><br/>
 
-#### 🛠️ Developer Tools, Design & Acceleration
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
+#### 💻 Backend Architecture & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,java,mysql,mongodb&theme=dark" alt="Backend Stack" />
+</a>
+
+<br/><br/>
+
+#### ☁️ Cloud, Deployment & Engineering Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,vercel,netlify,figma&theme=dark" alt="DevOps Stack" />
+</a>
+
+</div>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Highlights
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sughan-pv770&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" />
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sughan-pv770&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
       </td>
-      <td>
+      <td align="center">
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sughan-pv770&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sughan-pv770&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sughan-pv770&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<br/>
 
----
-
-### 💬 Daily Inspiration
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
@@ -140,7 +120,7 @@ I am a **B.Tech Artificial Intelligence & Data Science** student passionate abou
 ---
 
 <div align="center">
-  <p>⚡ Designed & Crafted with precision by <b>Sughan P V</b></p>
+  <p>⚡ Crafted with precision by <b>Sughan P V</b></p>
   <a href="https://sughan.netlify.app/">
     <img src="https://komarev.com/ghpvc/?username=sughan-pv770&label=Profile%20Views&color=00C7B7&style=flat-square" alt="Profile Views" />
   </a>
